@@ -1,14 +1,15 @@
-<h1>Hello, I'm Yetian! 👋</h1> 
+# Hello, I'm SoloPython! 👋
 
-<h3>I aim to become a fullstack web developer in 5 years.</h3>
+I aim to become a FullStack Web Develompent in 5 Years.
 
-<h1>My Skills 💻:</h1>
+## My Skills 💻
 
-<h3>- Languages: Python, Javascript</h3>
-<h3>- Web Development: React, Next, Docker, git...</h3>
-<h3>- Framework: Django</h3>
+- **Languages:** Python, Javascript
+- **Web Development:** React, Next.js, Docker, Git,... 
+- **Frameworks:** Django
 
-        
-          
-<h1>Connect with Me 🌐:</h1>
-<h3>- Phone Number: 0869.227.192</h3>
+## Connect with Me 🌐
+- **Phone Number:** 0869227292
+
+
+Thank you for visiting my profile, and happy coding! 😄
