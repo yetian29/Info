@@ -4,14 +4,11 @@
 
 <h1>My Skills 💻:</h1>
 
-<h3>
-        - Languages: Python, Javascript
-        - Web Development: React, Next.js, Docker, git...
-        - Frameworks: Django
-</h3>
+<h3>- Languages: Python, Javascript</h3>
+<h3>-Web Development: React, Next, Docker, git...</h3>
+<h3>Framework: Django</h3>
 
         
           
 <h1>Connect with Me 🌐:</h1>
-
-    - Phone Number: 0869227192
+<h3>- Phone Number: 0869.227.192</h3>
