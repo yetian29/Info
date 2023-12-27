@@ -4,9 +4,14 @@ I aim to become a fullstack web developer in 5 years.
 
 <h1>My Skills 💻:</h1>
 
-    - Languages: Python, Javascript
-    - Web Development: React, Next.js, Docker, git...
-    - Frameworks: Django
+    <h3>
+        - Languages: Python, Javascript
+        - Web Development: React, Next.js, Docker, git...
+        - Frameworks: Django
+        
+    </h3>
+
+  
 
 <h1>Connect with Me 🌐:</h1>
 
