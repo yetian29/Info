@@ -3,6 +3,7 @@
 <h3>I aim to become a fullstack web developer in 5 years.</h3>
 
 <h1>My Skills 💻:</h1>
+
 <h3>
         - Languages: Python, Javascript
         - Web Development: React, Next.js, Docker, git...
