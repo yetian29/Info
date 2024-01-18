@@ -5,7 +5,7 @@ I aim to become a FullStack Web Develompent in 5 Years.
 ## My Skills 💻
 
 - **Languages:** Python, Javascript
-- **Web Development:** React, Next.js, Docker, Git,... 
+- **Web Development:** React, Next.js, Git,... 
 - **Frameworks:** Django
 
 ## Connect with Me 🌐
