@@ -1,4 +1,4 @@
-# Hello, I'm Yetain! 👋
+# Hello, I'm Yetian! 👋
 
 I aim to become a FullStack Web Develompent in 5 Years.
 
