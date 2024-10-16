@@ -1,6 +1,6 @@
 # Hello, I'm Yetian! 👋
 
-I aim to become a FullStack Web Develompent in 5 Years.
+I aim to become a Senior Backend Python in 5 Years.
 
 
 ## Connect with Me 🌐
